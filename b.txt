@@ -1,0 +1,2 @@
+
+from file b - first line
